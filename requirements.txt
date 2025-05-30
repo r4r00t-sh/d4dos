@@ -1,0 +1,12 @@
+Django==4.2.7
+psutil==5.9.6
+scapy==2.5.0
+numpy==1.24.3
+matplotlib==3.7.2
+django-cors-headers==4.3.1
+channels==4.0.0
+channels-redis==4.1.0
+redis==5.0.1
+djangorestframework==3.14.0
+python-dotenv==1.0.0
+websocket-client==1.6.4
